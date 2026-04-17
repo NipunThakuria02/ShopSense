@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="8" fill="#060e20"/>
+  <!-- Shopping bag body -->
+  <path d="M8 12h16l-2 12H10L8 12z" fill="#4F46E5" rx="2"/>
+  <!-- Bag handle -->
+  <path d="M12 12V10a4 4 0 0 1 8 0v2" fill="none" stroke="#a7a5ff" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sparkle dot -->
+  <circle cx="16" cy="19" r="2" fill="#a7a5ff"/>
+</svg>
